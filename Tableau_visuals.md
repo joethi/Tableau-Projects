@@ -41,3 +41,21 @@ The pie chart shows the gender distribution of customers, with 54% being male an
 This stacked bar chart shows the proportion of customers in white-collar, blue-collar, and other job categories.
 
 Overall, the dashboard gives a comprehensive snapshot of the customer demographics and financial distribution for a UK bank.
+
+## 3. Office Supplies Data Overview
+
+This dataset contains sales transaction records with the following columns:
+
+- **OrderDate:** The date when the order was placed, ranging from July 4, 2014, to October 14, 2014.
+- **Region:** The geographical region where the sales were made (e.g., East, Central, West).
+- **Rep:** The sales representative handling the transaction (e.g., Richard, Nick, Morgan).
+- **Item:** The product sold in the transaction (e.g., Pen Set, Binder, Desk).
+- **Units:** The number of units sold in the transaction.
+- **Unit Price:** The price per unit of the item sold.
+
+## Tableau Visual
+
+Below is a Tableau visualization of the Office Supplies data, showcasing various aspects of sales performance.
+
+![Tableau Visualization](./images/Sheet_1_mod2.png)
+
