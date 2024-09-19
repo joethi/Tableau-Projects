@@ -38,6 +38,6 @@ This chart displays the age distribution of UK bank customers. The highest perce
 The pie chart shows the gender distribution of customers, with 54% being male and 46% female.
 
 ## Job Classification
-This stacked bar chart shows the proportion of customers in white-collar and blue-collar job categories, indicating a balanced distribution between the two groups.
+This stacked bar chart shows the proportion of customers in white-collar, blue-collar, and other job categories.
 
 Overall, the dashboard gives a comprehensive snapshot of the customer demographics and financial distribution for a UK bank.
